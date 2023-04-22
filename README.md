@@ -11,10 +11,10 @@
 - Get token for imdb api and set into FilmService
 - Start application
 ## Dependencies
-Retrofit https://square.github.io/retrofit/
-Firebase https://firebase.google.com/index.html
-SQLite https://www.sqlite.org/index.html
-Picasso https://square.github.io/picasso/
+- Retrofit https://square.github.io/retrofit/
+- Firebase https://firebase.google.com/index.html
+-SQLite https://www.sqlite.org/index.html
+- Picasso https://square.github.io/picasso/
 ## Database structure
 Database stores information about films(title, full title, year, image, plot, genres)
 ## Global Reviewers & Maintainers
